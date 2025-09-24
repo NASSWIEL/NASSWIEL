@@ -6,7 +6,6 @@ Welcome to my GitHub profile! I'm a passionate software engineer with expertise 
 
 I'm a developer who enjoys building comprehensive solutions from frontend to backend. My passion lies in creating seamless user experiences while maintaining clean, efficient code architecture.
 
-- 🔭 Currently working on **ShopEase** - A comprehensive e-commerce mobile application
 - 🌱 Always learning and exploring new technologies
 - 💼 Open to collaboration on innovative projects
 - 📫 Portfolio: [my-portofolio-one-self.vercel.app](https://my-portofolio-one-self.vercel.app)
