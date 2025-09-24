@@ -1,4 +1,4 @@
-# Hi there, I'm Nayef! 👋
+# Hello you, It is Nayef!
 
 Welcome to my GitHub profile! I'm a passionate software engineer with expertise in modern web and mobile technologies, specializing in creating robust, scalable applications.
 
