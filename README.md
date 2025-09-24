@@ -37,7 +37,7 @@ A comprehensive e-commerce mobile application providing seamless shopping experi
 - **Tech Stack:** Flutter, FastAPI, Python
 - **Features:** Full e-commerce functionality, vendor management, customer experience optimization
 
-### 🌐 [Node.js E-commerce API](https://github.com/NASSWIEL/nodejs-ecommerce-api)
+### 🌐 [Node.js E-commerce API](https://github.com/NASSWIEL/nodejs-ecommerce-api) (on going)
 RESTful API backend for e-commerce applications built with Node.js
 - **Tech Stack:** JavaScript, Node.js
 - **Features:** Complete e-commerce backend functionality
@@ -47,34 +47,14 @@ My first implemented marketplace solution
 - **Tech Stack:** TypeScript, JavaScript, CSS
 - **Description:** Marketplace platform implementation
 
-### 📝 [Personal Blog](https://github.com/NASSWIEL/personal_blog)
-Full-stack blog application with modern web technologies
-- **Tech Stack:** TypeScript, JavaScript, CSS, HTML, PHP
 
 ### 🎯 [TrAP - TroubleMaker Agent Platform](https://github.com/NASSWIEL/TrAP--TroubleMaker-Agent-Platform)
 Advanced agent platform built with modern technologies
 - **Tech Stack:** TypeScript, Python, Shell scripting
 
-## 📊 GitHub Stats
-
-![NASSWIEL's GitHub stats](https://github-readme-stats.vercel.app/api?username=NASSWIEL&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NASSWIEL&layout=compact&theme=radical)
-
-## 🎓 Continuous Learning
-
-I'm committed to continuous learning and staying updated with the latest technologies. My repositories include:
-- **Machine Learning Projects:** Image generation and classification using Jupyter Notebooks
-- **Educational Content:** Coursera formations and certifications
-- **Blog Development:** Django-based blog applications
-
-## 🤝 Let's Connect!
+## Let's Connect!
 
 I'm always interested in collaborating on exciting projects and connecting with fellow developers. Feel free to reach out!
 
 - 🌐 Portfolio: [Visit my portfolio](https://my-portofolio-one-self.vercel.app)
-- 📧 Feel free to explore my repositories and reach out for collaboration opportunities!
 
----
-
-⭐️ From [NASSWIEL](https://github.com/NASSWIEL)
