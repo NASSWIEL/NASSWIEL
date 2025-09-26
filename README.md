@@ -8,9 +8,9 @@ I'm a software engineer who enjoys coding and building AI solutions. My passion 
 
 - Always learning and exploring new technologies
 - Open to collaboration on innovative projects
-- 📫 Portfolio: [my-portofolio-one-self.vercel.app](Portfolio)
+- Portfolio: [Portfolio](https://naif-asswiel.dev)
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
