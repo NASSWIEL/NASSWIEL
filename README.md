@@ -51,11 +51,6 @@ RESTful API backend for e-commerce applications built with Node.js
 - **Tech Stack:** JavaScript, Node.js
 - **Features:** Complete e-commerce backend functionality
 
-### 🏪 [Matjaar SKAS](https://github.com/NASSWIEL/matjaar-SKAS)
-My first implemented marketplace solution
-- **Tech Stack:** TypeScript, JavaScript, CSS
-- **Description:** Marketplace platform implementation
-
 
 ### 🎯 [TrAP - TroubleMaker Agent Platform](https://github.com/NASSWIEL/TrAP--TroubleMaker-Agent-Platform)
 Advanced agent platform built with modern technologies
