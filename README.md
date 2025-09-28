@@ -6,6 +6,8 @@ Welcome to my GitHub profile! I'm a passionate software engineer with expertise 
 
 I'm a software engineer who enjoys coding and building AI solutions. My passion is to leave a mark by creating solutions that facilitate day-to-day life
 
+
+
 - Always learning and exploring new technologies
 - Open to collaboration on innovative projects
 - Portfolio: [Portfolio](https://naif-asswiel.dev)
