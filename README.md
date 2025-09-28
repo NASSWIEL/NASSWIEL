@@ -4,60 +4,79 @@ Welcome to my GitHub profile! I'm a passionate software engineer with expertise 
 
 ## About Me
 
-I'm a software engineer who enjoys coding and building AI solutions. My passion is to leave a mark by creating solutions that facilitate day-to-day life
+I'm a software engineer who enjoys coding and building AI solutions. My passion is to leave a mark by creating solutions that facilitate day-to-day life.
 
-- Always learning and exploring new technologies  
-- Open to collaboration on innovative projects  
+- Always learning and exploring new technologies
+- Open to collaboration on innovative projects
 - Portfolio: [Portfolio](https://naif-asswiel.dev)
 
 ---
 
 ## Tech Stack
 
+> **Note:** This README uses 3D logo images stored in `/assets/logos/3d/` (PNG or WebP recommended). Add your rendered 3D logos with the filenames listed below so they display correctly.
+
 ### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+<p align="left">
+  <img src="/assets/logos/3d/javascript-3d.png" alt="JavaScript (3D)" width="96" />
+  <img src="/assets/logos/3d/typescript-3d.png" alt="TypeScript (3D)" width="96" />
+  <img src="/assets/logos/3d/python-3d.png" alt="Python (3D)" width="96" />
+  <img src="/assets/logos/3d/dart-3d.png" alt="Dart (3D)" width="96" />
+  <img src="/assets/logos/3d/html5-3d.png" alt="HTML5 (3D)" width="96" />
+  <img src="/assets/logos/3d/css3-3d.png" alt="CSS3 (3D)" width="96" />
+</p>
 
 ### Frameworks & Libraries
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+<p align="left">
+  <img src="/assets/logos/3d/flutter-3d.png" alt="Flutter (3D)" width="96" />
+  <img src="/assets/logos/3d/nodejs-3d.png" alt="Node.js (3D)" width="96" />
+  <img src="/assets/logos/3d/fastapi-3d.png" alt="FastAPI (3D)" width="96" />
+  <img src="/assets/logos/3d/django-3d.png" alt="Django (3D)" width="96" />
+</p>
 
 ### AI Tools
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
+
+<p align="left">
+  <img src="/assets/logos/3d/tensorflow-3d.png" alt="TensorFlow (3D)" width="96" />
+  <img src="/assets/logos/3d/pytorch-3d.png" alt="PyTorch (3D)" width="96" />
+  <img src="/assets/logos/3d/keras-3d.png" alt="Keras (3D)" width="96" />
+  <img src="/assets/logos/3d/numpy-3d.png" alt="NumPy (3D)" width="96" />
+  <img src="/assets/logos/3d/pandas-3d.png" alt="pandas (3D)" width="96" />
+  <img src="/assets/logos/3d/scikit-learn-3d.png" alt="scikit-learn (3D)" width="96" />
+  <img src="/assets/logos/3d/matplotlib-3d.png" alt="Matplotlib (3D)" width="96" />
+</p>
 
 ### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+<p align="left">
+  <img src="/assets/logos/3d/git-3d.png" alt="Git (3D)" width="96" />
+  <img src="/assets/logos/3d/jupyter-3d.png" alt="Jupyter (3D)" width="96" />
+</p>
 
 ---
 
-## 🏆 Featured Projects
+## Featured Projects
 
-### 🌐 [Node.js E-commerce API](https://github.com/NASSWIEL/nodejs-ecommerce-api) (on going)
+### [Node.js E-commerce API](https://github.com/NASSWIEL/nodejs-ecommerce-api) (ongoing)
+
 RESTful API backend for e-commerce applications built with Node.js
+
 - **Tech Stack:** JavaScript, Node.js
 - **Features:** Complete e-commerce backend functionality
 
-### 🎯 [TrAP - TroubleMaker Agent Platform](https://github.com/NASSWIEL/TrAP--TroubleMaker-Agent-Platform)
+### [TrAP - TroubleMaker Agent Platform](https://github.com/NASSWIEL/TrAP--TroubleMaker-Agent-Platform)
+
 Advanced agent platform built with modern technologies
+
 - **Tech Stack:** TypeScript, Python, Shell scripting
 
 ---
 
-## Let's Connect!
+## Let's Connect
 
-I'm always interested in collaborating on exciting projects and connecting with fellow developers. Feel free to reach out!
+I'm always interested in collaborating on exciting projects and connecting with fellow developers. Feel free to reach out.
 
-- 🌐 Portfolio: [Visit my portfolio](https://my-portofolio-one-self.vercel.app)
+- Portfolio: [Visit my portfolio](https://my-portofolio-one-self.vercel.app)
+
