@@ -43,11 +43,6 @@ I'm a software engineer who enjoys coding and building AI solutions. My passion 
 
 ## 🏆 Featured Projects
 
-### 🛒 [ShopEase](https://github.com/NASSWIEL/ShopEase)
-A comprehensive e-commerce mobile application providing seamless shopping experiences for customers and vendors.
-- **Tech Stack:** Flutter, FastAPI, Python
-- **Features:** Full e-commerce functionality, vendor management, customer experience optimization
-
 ### 🌐 [Node.js E-commerce API](https://github.com/NASSWIEL/nodejs-ecommerce-api) (on going)
 RESTful API backend for e-commerce applications built with Node.js
 - **Tech Stack:** JavaScript, Node.js
