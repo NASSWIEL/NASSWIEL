@@ -11,30 +11,28 @@ My passion is to leave a mark by creating solutions that facilitate day-to-day l
 -  Open to collaboration on innovative projects  
 -  Portfolio: [Portfolio](https://naif-asswiel.dev)  
 
----
+## Tech Stack
 
-##  Tech Stack  
-
-### Languages  
+### Languages
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,python,dart,html,css" />
-</p>  
+</p>
 
-### Frameworks & Libraries  
+### Frameworks & Libraries
 <p align="left">
   <img src="https://skillicons.dev/icons?i=flutter,nodejs,fastapi,django" />
-</p>  
+</p>
 
-### AI Tools  
+### AI Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,keras,numpy,pandas,sklearn" />
-  <img src="https://cdn.worldvectorlogo.com/logos/matplotlib.svg" height="48" />
-</p>  
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="scikit-learn" width="48" height="48"/> </a>
+</p>
 
-### Tools & Technologies  
+### Tools & Technologies
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,jupyter,vscode,github" />
-</p>  
+  <img src="https://skillicons.dev/icons?i=git,vscode,github" />
+</p>
 
 ---
 
