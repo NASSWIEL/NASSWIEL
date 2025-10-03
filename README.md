@@ -9,7 +9,6 @@ My passion is to leave a mark by creating solutions that facilitate day-to-day l
 
 -  Always learning and exploring new technologies  
 -  Open to collaboration on innovative projects  
--  Portfolio: [Portfolio](https://naif-asswiel.dev)  
 
 ## Tech Stack
 
