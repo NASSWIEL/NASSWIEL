@@ -1,7 +1,7 @@
 # Hello you, It is Nayef!  
 
 Welcome to my GitHub profile!  
-I'm a passionate software engineer with expertise in modern web and mobile technologies, specializing in creating robust, scalable applications.  
+I'm a passionate software engineer with expertise AI researhch and web developpement.  
 
 ## About Me  
 I'm a software engineer who enjoys coding and building AI solutions.  
