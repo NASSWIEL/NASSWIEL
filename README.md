@@ -1,8 +1,7 @@
 # Hello you, It is Nayef!  
 
 Welcome to my GitHub profile!  
-I'm a passionate software engineer with expertise AI researhch and web developpement.  
-
+I'm a passionate software engineer with a strong foundation in AI research and web development. Currently pursuing a Master's in Artificial Intelligence at Le Mans University, I specialize in Automatic and Speech Language Processing, blending theoretical knowledge with hands-on experience.
 ## About Me  
 I'm a software engineer who enjoys coding and building AI solutions.  
 My passion is to leave a mark by creating solutions that facilitate day-to-day life  
