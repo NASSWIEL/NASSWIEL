@@ -27,10 +27,6 @@ My passion is to leave a mark by creating solutions that facilitate day-to-day l
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="scikit-learn" width="48" height="48"/> </a>
 </p>
 
-### Tools & Technologies
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,vscode,github" />
-</p>
 
 ---
 
