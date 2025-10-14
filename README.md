@@ -53,10 +53,7 @@ Working on Conditional Flow Matching TTS systems and objective evaluation using 
 
 ---
 
-## Work & Education
-
-- **Master's in Artificial Intelligence**, Le Mans University — focusing on ML, NLP, signal processing and experimental evaluation.  
-- **Intern @ LIUM** — deep learning research experience (audio-visual deepfake detection and large-scale model training).  
+ 
 
 (Details and dates available on my portfolio.)
 
