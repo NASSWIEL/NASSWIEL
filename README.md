@@ -62,7 +62,5 @@ Working on Conditional Flow Matching TTS systems and objective evaluation using 
 ## Contact & Links
 
 - 🌐 Portfolio — https://www.asswiel.me/  
-- 📫 For contact details and CV, please visit my portfolio.
 
----
 
