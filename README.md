@@ -53,14 +53,7 @@ Real-time computer vision system for detecting and tracking vehicles using deep 
 Implementation of RAG systems combining large language models with retrieval mechanisms for enhanced knowledge-grounded responses.  
 **Tech:** Python, LLMs, Vector Databases.
 
-### [My Portfolio](https://github.com/NASSWIEL/my-portofolio)
-Personal portfolio website showcasing my projects and skills.  
-**Tech:** HTML, CSS, JavaScript.  
-**Live:** [asswiel.me](https://www.asswiel.me/)
 
-### Improving Pronunciation in Conditional Flow Matching TTS (ongoing research)  
-Working on Conditional Flow Matching TTS systems and objective evaluation using ASR models (Wav2Vec-BERT). Focused on pronunciation improvements, alignment, and RL-based robustness.  
-**Tech:** PyTorch, speech-processing toolchain.
 
 ---
 
