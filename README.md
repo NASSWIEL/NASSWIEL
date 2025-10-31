@@ -1,31 +1,5 @@
-# Hello, I'm Naif
 
-I'm a software engineer and AI researcher currently pursuing a **Master's in Artificial Intelligence**.  
-I blend research-grade machine learning (especially speech & audio) with full-stack and backend development to build practical, reliable solutions.
 
----
-
-## About me
-
-- Passionate about building AI systems that make everyday tasks easier.
-- Focus areas: **Automatic & Speech Language Processing**, deep learning research, and web/backend engineering.
-- I enjoy collaborating on research-oriented projects and production-ready applications.
-
----
-
-## Tech Stack
-
-### Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,dart,html,css,cpp" alt="Languages" />
-</p>
-
-### Frameworks & Libraries
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,nodejs,fastapi,django,react" alt="Frameworks and Libraries" />
-</p>
-
-### AI & ML
 <p align="left">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" alt="AI frameworks" />
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
