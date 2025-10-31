@@ -1,18 +1,14 @@
+# Machine Learning — 3D Logo Wall
 
 <p align="center">
-  <!-- Container: adjust width as you wish -->
-  <svg width="1000" height="360" viewBox="0 0 1000 360" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="ML library logos in 3D cards">
+  <!-- 3D-style logo grid: paste into README.md -->
+  <svg width="1000" height="360" viewBox="0 0 1000 360" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Machine learning library logos on 3D cards">
     <defs>
       <filter id="dropShadow" x="-50%" y="-50%" width="200%" height="200%">
         <feGaussianBlur in="SourceAlpha" stdDeviation="8" result="blur"/>
         <feOffset in="blur" dx="0" dy="10" result="offset"/>
-        <feComponentTransfer>
-          <feFuncA type="linear" slope="0.25"/>
-        </feComponentTransfer>
-        <feMerge>
-          <feMergeNode in="offset"/>
-          <feMergeNode in="SourceGraphic"/>
-        </feMerge>
+        <feComponentTransfer><feFuncA type="linear" slope="0.25"/></feComponentTransfer>
+        <feMerge><feMergeNode in="offset"/><feMergeNode in="SourceGraphic"/></feMerge>
       </filter>
 
       <linearGradient id="fade" x1="0" x2="0" y1="0" y2="1">
@@ -35,26 +31,25 @@
       </clipPath>
     </defs>
 
+    <!-- Card template: group + title for accessibility -->
+
     <!-- Card 1: TensorFlow -->
     <g transform="translate(40,30)">
       <g filter="url(#dropShadow)">
         <rect x="0" y="0" width="180" height="240" rx="18" ry="18" fill="url(#cardGrad)"/>
         <rect x="1.5" y="1.5" width="177" height="237" rx="16.5" ry="16.5" fill="none" stroke="url(#rim)" stroke-width="2"/>
       </g>
-
       <g transform="translate(90,95) rotate(-12) translate(-60,-60)">
         <g transform="translate(10,20)">
+          <title>TensorFlow</title>
           <rect x="0" y="0" width="120" height="120" rx="14" ry="14" fill="#ffffff"/>
           <g clip-path="url(#logoClip)">
-            <image href="https://upload.wikimedia.org/wikipedia/commons/a/ab/TensorFlow_logo.svg"
-                   width="120" height="120" preserveAspectRatio="xMidYMid meet" />
+            <image href="https://upload.wikimedia.org/wikipedia/commons/a/ab/TensorFlow_logo.svg" width="120" height="120" preserveAspectRatio="xMidYMid meet" />
           </g>
         </g>
-
         <g transform="translate(10,150) scale(1,-1)" opacity="0.28">
           <g clip-path="url(#logoClip)">
-            <image href="https://upload.wikimedia.org/wikipedia/commons/a/ab/TensorFlow_logo.svg"
-                   width="120" height="120" preserveAspectRatio="xMidYMid meet" />
+            <image href="https://upload.wikimedia.org/wikipedia/commons/a/ab/TensorFlow_logo.svg" width="120" height="120" preserveAspectRatio="xMidYMid meet" />
             <rect x="0" y="0" width="120" height="120" fill="url(#fade)"/>
           </g>
         </g>
@@ -67,20 +62,17 @@
         <rect x="0" y="0" width="180" height="240" rx="18" ry="18" fill="url(#cardGrad)"/>
         <rect x="1.5" y="1.5" width="177" height="237" rx="16.5" ry="16.5" fill="none" stroke="url(#rim)" stroke-width="2"/>
       </g>
-
       <g transform="translate(90,95) rotate(-8) translate(-60,-60)">
         <g transform="translate(10,20)">
+          <title>PyTorch</title>
           <rect x="0" y="0" width="120" height="120" rx="14" ry="14" fill="#ffffff"/>
           <g clip-path="url(#logoClip)">
-            <image href="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg"
-                   width="120" height="120" preserveAspectRatio="xMidYMid meet" />
+            <image href="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" width="120" height="120" preserveAspectRatio="xMidYMid meet" />
           </g>
         </g>
-
         <g transform="translate(10,150) scale(1,-1)" opacity="0.26">
           <g clip-path="url(#logoClip)">
-            <image href="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg"
-                   width="120" height="120" preserveAspectRatio="xMidYMid meet" />
+            <image href="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" width="120" height="120" preserveAspectRatio="xMidYMid meet" />
             <rect x="0" y="0" width="120" height="120" fill="url(#fade)"/>
           </g>
         </g>
@@ -93,20 +85,17 @@
         <rect x="0" y="0" width="180" height="240" rx="18" ry="18" fill="url(#cardGrad)"/>
         <rect x="1.5" y="1.5" width="177" height="237" rx="16.5" ry="16.5" fill="none" stroke="url(#rim)" stroke-width="2"/>
       </g>
-
       <g transform="translate(90,95) rotate(-10) translate(-60,-60)">
         <g transform="translate(10,20)">
+          <title>scikit-learn</title>
           <rect x="0" y="0" width="120" height="120" rx="14" ry="14" fill="#ffffff"/>
           <g clip-path="url(#logoClip)">
-            <image href="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
-                   width="120" height="120" preserveAspectRatio="xMidYMid meet" />
+            <image href="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="120" height="120" preserveAspectRatio="xMidYMid meet" />
           </g>
         </g>
-
         <g transform="translate(10,150) scale(1,-1)" opacity="0.2">
           <g clip-path="url(#logoClip)">
-            <image href="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
-                   width="120" height="120" preserveAspectRatio="xMidYMid meet" />
+            <image href="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="120" height="120" preserveAspectRatio="xMidYMid meet" />
             <rect x="0" y="0" width="120" height="120" fill="url(#fade)"/>
           </g>
         </g>
@@ -119,46 +108,40 @@
         <rect x="0" y="0" width="180" height="240" rx="18" ry="18" fill="url(#cardGrad)"/>
         <rect x="1.5" y="1.5" width="177" height="237" rx="16.5" ry="16.5" fill="none" stroke="url(#rim)" stroke-width="2"/>
       </g>
-
       <g transform="translate(90,95) rotate(-6) translate(-60,-60)">
         <g transform="translate(10,20)">
+          <title>Keras</title>
           <rect x="0" y="0" width="120" height="120" rx="14" ry="14" fill="#ffffff"/>
           <g clip-path="url(#logoClip)">
-            <image href="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg"
-                   width="120" height="120" preserveAspectRatio="xMidYMid meet" />
+            <image href="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="120" height="120" preserveAspectRatio="xMidYMid meet" />
           </g>
         </g>
-
         <g transform="translate(10,150) scale(1,-1)" opacity="0.22">
           <g clip-path="url(#logoClip)">
-            <image href="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg"
-                   width="120" height="120" preserveAspectRatio="xMidYMid meet" />
+            <image href="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="120" height="120" preserveAspectRatio="xMidYMid meet" />
             <rect x="0" y="0" width="120" height="120" fill="url(#fade)"/>
           </g>
         </g>
       </g>
     </g>
 
-    <!-- Second row, Card 5: JAX -->
+    <!-- Row 2, Card 5: JAX -->
     <g transform="translate(40,205)">
       <g filter="url(#dropShadow)">
         <rect x="0" y="0" width="180" height="240" rx="18" ry="18" fill="url(#cardGrad)"/>
         <rect x="1.5" y="1.5" width="177" height="237" rx="16.5" ry="16.5" fill="none" stroke="url(#rim)" stroke-width="2"/>
       </g>
-
       <g transform="translate(90,95) rotate(-11) translate(-60,-60)">
         <g transform="translate(10,20)">
+          <title>JAX</title>
           <rect x="0" y="0" width="120" height="120" rx="14" ry="14" fill="#ffffff"/>
           <g clip-path="url(#logoClip)">
-            <image href="https://upload.wikimedia.org/wikipedia/commons/9/9a/Jax_logo.svg"
-                   width="120" height="120" preserveAspectRatio="xMidYMid meet" />
+            <image href="https://upload.wikimedia.org/wikipedia/commons/9/9a/Jax_logo.svg" width="120" height="120" preserveAspectRatio="xMidYMid meet" />
           </g>
         </g>
-
         <g transform="translate(10,150) scale(1,-1)" opacity="0.18">
           <g clip-path="url(#logoClip)">
-            <image href="https://upload.wikimedia.org/wikipedia/commons/9/9a/Jax_logo.svg"
-                   width="120" height="120" preserveAspectRatio="xMidYMid meet" />
+            <image href="https://upload.wikimedia.org/wikipedia/commons/9/9a/Jax_logo.svg" width="120" height="120" preserveAspectRatio="xMidYMid meet" />
             <rect x="0" y="0" width="120" height="120" fill="url(#fade)"/>
           </g>
         </g>
@@ -171,20 +154,17 @@
         <rect x="0" y="0" width="180" height="240" rx="18" ry="18" fill="url(#cardGrad)"/>
         <rect x="1.5" y="1.5" width="177" height="237" rx="16.5" ry="16.5" fill="none" stroke="url(#rim)" stroke-width="2"/>
       </g>
-
       <g transform="translate(90,95) rotate(-7) translate(-60,-60)">
         <g transform="translate(10,20)">
+          <title>Hugging Face</title>
           <rect x="0" y="0" width="120" height="120" rx="14" ry="14" fill="#ffffff"/>
           <g clip-path="url(#logoClip)">
-            <image href="https://upload.wikimedia.org/wikipedia/commons/d/d6/Hf-logo-with-title.svg"
-                   width="120" height="120" preserveAspectRatio="xMidYMid meet" />
+            <image href="https://upload.wikimedia.org/wikipedia/commons/d/d6/Hf-logo-with-title.svg" width="120" height="120" preserveAspectRatio="xMidYMid meet" />
           </g>
         </g>
-
         <g transform="translate(10,150) scale(1,-1)" opacity="0.20">
           <g clip-path="url(#logoClip)">
-            <image href="https://upload.wikimedia.org/wikipedia/commons/d/d6/Hf-logo-with-title.svg"
-                   width="120" height="120" preserveAspectRatio="xMidYMid meet" />
+            <image href="https://upload.wikimedia.org/wikipedia/commons/d/d6/Hf-logo-with-title.svg" width="120" height="120" preserveAspectRatio="xMidYMid meet" />
             <rect x="0" y="0" width="120" height="120" fill="url(#fade)"/>
           </g>
         </g>
@@ -197,20 +177,17 @@
         <rect x="0" y="0" width="180" height="240" rx="18" ry="18" fill="url(#cardGrad)"/>
         <rect x="1.5" y="1.5" width="177" height="237" rx="16.5" ry="16.5" fill="none" stroke="url(#rim)" stroke-width="2"/>
       </g>
-
       <g transform="translate(90,95) rotate(-9) translate(-60,-60)">
         <g transform="translate(10,20)">
+          <title>ONNX</title>
           <rect x="0" y="0" width="120" height="120" rx="14" ry="14" fill="#ffffff"/>
           <g clip-path="url(#logoClip)">
-            <image href="https://upload.wikimedia.org/wikipedia/commons/1/17/Open_Neural_Network_Exchange_logo.svg"
-                   width="120" height="120" preserveAspectRatio="xMidYMid meet" />
+            <image href="https://upload.wikimedia.org/wikipedia/commons/1/17/Open_Neural_Network_Exchange_logo.svg" width="120" height="120" preserveAspectRatio="xMidYMid meet" />
           </g>
         </g>
-
         <g transform="translate(10,150) scale(1,-1)" opacity="0.17">
           <g clip-path="url(#logoClip)">
-            <image href="https://upload.wikimedia.org/wikipedia/commons/1/17/Open_Neural_Network_Exchange_logo.svg"
-                   width="120" height="120" preserveAspectRatio="xMidYMid meet" />
+            <image href="https://upload.wikimedia.org/wikipedia/commons/1/17/Open_Neural_Network_Exchange_logo.svg" width="120" height="120" preserveAspectRatio="xMidYMid meet" />
             <rect x="0" y="0" width="120" height="120" fill="url(#fade)"/>
           </g>
         </g>
@@ -223,20 +200,17 @@
         <rect x="0" y="0" width="180" height="240" rx="18" ry="18" fill="url(#cardGrad)"/>
         <rect x="1.5" y="1.5" width="177" height="237" rx="16.5" ry="16.5" fill="none" stroke="url(#rim)" stroke-width="2"/>
       </g>
-
       <g transform="translate(90,95) rotate(-5) translate(-60,-60)">
         <g transform="translate(10,20)">
+          <title>XGBoost</title>
           <rect x="0" y="0" width="120" height="120" rx="14" ry="14" fill="#ffffff"/>
           <g clip-path="url(#logoClip)">
-            <image href="https://upload.wikimedia.org/wikipedia/commons/5/58/XGBoost_logo.svg"
-                   width="120" height="120" preserveAspectRatio="xMidYMid meet" />
+            <image href="https://upload.wikimedia.org/wikipedia/commons/5/58/XGBoost_logo.svg" width="120" height="120" preserveAspectRatio="xMidYMid meet" />
           </g>
         </g>
-
         <g transform="translate(10,150) scale(1,-1)" opacity="0.20">
           <g clip-path="url(#logoClip)">
-            <image href="https://upload.wikimedia.org/wikipedia/commons/5/58/XGBoost_logo.svg"
-                   width="120" height="120" preserveAspectRatio="xMidYMid meet" />
+            <image href="https://upload.wikimedia.org/wikipedia/commons/5/58/XGBoost_logo.svg" width="120" height="120" preserveAspectRatio="xMidYMid meet" />
             <rect x="0" y="0" width="120" height="120" fill="url(#fade)"/>
           </g>
         </g>
