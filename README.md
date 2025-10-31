@@ -33,9 +33,6 @@
   <img alt="Django"        src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Django_logo.svg" width="120" style="border-radius:12px; margin:10px"/>
   <br/>
 </p>
-
----
-
 ## Featured Projects
 
 ### [ShopEase](https://github.com/NASSWIEL/ShopEase)
