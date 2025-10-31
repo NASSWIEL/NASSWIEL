@@ -31,11 +31,3 @@ Real-time computer vision system for detecting and tracking vehicles using deep 
 ### [RAG (Retrieval-Augmented Generation)](https://github.com/NASSWIEL/RAG)
 Implementation of RAG systems combining large language models with retrieval mechanisms for enhanced knowledge-grounded responses.  
 **Tech:** Python, LLMs, Vector Databases.
-
-
-
----
-
-## Contact & Links
-
-- 🌐 Portfolio — https://www.asswiel.me/  
