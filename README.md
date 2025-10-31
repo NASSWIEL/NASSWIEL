@@ -32,10 +32,6 @@
   <img alt="FastAPI"       src="https://commons.wikimedia.org/wiki/Special:Redirect/file/FastAPI_logo.svg" width="120" style="border-radius:12px; margin:10px"/>
   <img alt="Django"        src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Django_logo.svg" width="120" style="border-radius:12px; margin:10px"/>
   <br/>
-
-  <!-- LLM & tooling (if remote fails, download to ./assets/) -->
-  <img alt="Ollama (logo placeholder)" src="https://ollama.ai/favicon.ico" width="80" style="border-radius:8px; margin:10px"/>
-  <img alt="LlamaIndex (logo placeholder)" src="https://www.llamaindex.ai/brand/favicon.ico" width="80" style="border-radius:8px; margin:10px"/>
 </p>
 
 ---
