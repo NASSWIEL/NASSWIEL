@@ -44,6 +44,10 @@ Real-time computer vision system for detecting and tracking vehicles using deep 
 Implementation of RAG systems combining large language models with retrieval mechanisms for enhanced knowledge-grounded responses.  
 **Tech:** Python, LLMs, Vector Databases.
 
+### [Deep Dive AI](https://github.com/NASSWIEL/DeepDiveAI)
+Hands-on notebooks and implementations of core machine learning & deep learning techniques (linear regression, classification, neural nets, and more) with practical examples and explanations.  
+**Tech:** Python, Jupyter Notebook, NumPy, pandas, scikit-learn.
+
 ### [ShopEase](https://github.com/NASSWIEL/ShopEase)
 Comprehensive e-commerce mobile application designed to provide a seamless shopping experience. Built with Flutter for the frontend and FastAPI for the backend, offering a robust solution for both customers and vendors.  
 **Tech:** Dart, Flutter, Python, FastAPI.
